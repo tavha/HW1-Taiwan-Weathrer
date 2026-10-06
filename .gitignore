@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite databases (optional, but keep data.db tracked if needed as sample)
+# data.db
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Streamlit config
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
